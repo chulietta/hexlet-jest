@@ -1,2 +1,2 @@
 test:
-	npx test
+	npm test
